@@ -1,0 +1,5 @@
+groq
+pyautogui
+pyperclip
+python-dotenv
+openai
